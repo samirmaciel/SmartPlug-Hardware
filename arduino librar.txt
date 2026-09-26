@@ -1,0 +1,6 @@
+SmartPlug-Hardware - Arduino Libraries
+Format: Library Name | Version
+
+Adafruit GFX Library | 1.12.3
+Adafruit SSD1306 | 2.5.15
+ZMPT101B | 1.0.1 by Abdurraiq Bachmid
